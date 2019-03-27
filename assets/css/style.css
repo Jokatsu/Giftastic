@@ -1,0 +1,27 @@
+img{
+    float:left;
+    clear:both; 
+    margin-left:25%; 
+}
+
+p{
+    float:left;
+    clear:both;
+    margin-left:25%; 
+}
+
+#searchBar{
+    margin: 20px;
+    align-content: center; 
+    margin-left:35%;
+}
+
+.btn{
+    margin: 5px 13px;
+}
+
+#header{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
